@@ -50,7 +50,7 @@ writeGeneList(clean_gene_list)
 
 #! /home/user/anaconda3/bin/python
 
-""""
+"""
 Write_genes.py takes a gene annotation file       ###you can input a Doc string to your script
 and writes genes names to file
 Usage:

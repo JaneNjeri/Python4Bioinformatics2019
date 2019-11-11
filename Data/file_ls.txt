@@ -1,0 +1,9 @@
+dna.fa
+example.fasta
+file_ls.txt
+gene_names.txt
+humchrx.txt
+Salinispora_tropica_CNB_440.gbk
+Streptomyces_coelicolor.fa
+Streptomyces_coelicolor.gbk
+test.txt

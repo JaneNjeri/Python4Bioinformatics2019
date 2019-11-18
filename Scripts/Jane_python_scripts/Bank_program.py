@@ -1,3 +1,12 @@
+#! /home/user/miniconda3/bin/python
+
+""" 
+Bank_program.py enables a user's withdrawal,
+deposit and balance checking
+
+"""
+import sys
+
 acountbal = 50000
 choice = input("Please enter 'b' to check balance, 'w' to withdraw or 'd' to deposit: ")
 while choice != 'q':

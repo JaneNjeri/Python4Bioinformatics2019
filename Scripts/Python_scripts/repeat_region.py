@@ -2,7 +2,7 @@
 
 """ 
 Function finds a particular base that is highly repeated 
-and its lenght given a DNA sequence 
+and its length given a DNA sequence 
 Usage:
     python repeat_region.py <seq_file> 
 
